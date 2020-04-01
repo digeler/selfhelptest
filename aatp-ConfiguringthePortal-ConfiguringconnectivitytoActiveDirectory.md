@@ -17,22 +17,9 @@
 />
 
 
-## **Recommended Steps**
+## **Connect Sensor To AD**
 
 
 
-### **Information needed to process the refund request quickly**
-
-
-
-### **Reserved Instance Refunds**
-
-### **Policy**
-
-
-
-
-## **Recommended Documents**
-
-* [To connect the sensor please follow this article ](https://github.com/MicrosoftDocs/ATADocs/blob/master/ATPDocs/install-atp-step4.md)
+* [To connect the sensor to  please follow this article ](https://github.com/MicrosoftDocs/ATADocs/blob/master/ATPDocs/install-atp-step4.md)
 
