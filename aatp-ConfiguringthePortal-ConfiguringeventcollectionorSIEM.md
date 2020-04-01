@@ -17,7 +17,7 @@
 />
 
 
-## **Configure Email Notifications**
+## **Configuring event collection or SIEM**
 
 
 
