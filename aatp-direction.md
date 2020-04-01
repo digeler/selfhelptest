@@ -3,7 +3,7 @@
 	description="avoid misroute, MDATP /Offiice ATP"
 	service=""
 	resource=""
-	authors="zacohen2"
+	authors="zacohen1"
 	ms.author="zacohen"
 	displayOrder=""
         selfHelpType="generic"	 
