@@ -21,5 +21,5 @@
 
 
 
-* [To Configuring Exclusions Please Follow This Article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/excluding-entities-from-detections)
+* [To Configure Exclusions Please Follow This Article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/excluding-entities-from-detections)
 
