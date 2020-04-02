@@ -21,5 +21,5 @@
 
 
 
-* [To configure Configuring event collection or SIEM please follow this article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/configure-event-collection)
+* [To Configure event collection or SIEM Please Follow This Article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/configure-event-collection)
 
