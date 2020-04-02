@@ -13,7 +13,7 @@
 	productPesIds=""
 	cloudEnvironments="Public, Blackforest, Fairfax, Mooncake"
 	articleId="Configuring Exclusions"
-	ownershipId="AAtp"
+	ownershipId="Azure_Advanced_Threat_Protection"
 />
 
 
