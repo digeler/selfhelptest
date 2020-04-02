@@ -21,5 +21,5 @@
 
 
 
-* [To configure email notifications please follow this article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/notifications)
+* [To Configure Email Notifications Please Follow This Article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/notifications)
 
