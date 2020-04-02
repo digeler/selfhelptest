@@ -15,11 +15,12 @@ supportTopicIds="32729025,32729026,32729027,32729028,32729029,32729032,32729030,
 	ownershipId="Azure_Advanced_Threat_Protection"
 />
 
-# direction
 
-## **Recommended Steps**
+## **Configuring Exclusions**
 
-* [For Microsoft Defender Advanced Threat Protection, please open a support ticket here](https://support.Microsoft.com/supportforbusiness/productselection) <br>
-* [For Office Advanced Threat Protection, please open a support ticket here](https://portal.office.com/adminportal#/homepage) <br>
-* For Azure Advanced Threat Protection, please continue to the next step
+
+
+* [To Configure Exclusions Please Follow This Article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/excluding-entities-from-detections)
+
+
 
