@@ -21,5 +21,5 @@
 
 
 
-* [Configuring reports follow this article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/reports)
+* [To Configure Reports Follow This Article ] (https://docs.microsoft.com/en-us/azure-advanced-threat-protection/reports)
 
