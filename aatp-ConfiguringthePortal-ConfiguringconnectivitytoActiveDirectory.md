@@ -21,5 +21,5 @@
 
 
 
-* [To connect the sensor to  please follow this article ](https://github.com/MicrosoftDocs/ATADocs/blob/master/ATPDocs/install-atp-step4.md)
+* [To Connect The Sensor Please Follow This Article ](https://github.com/MicrosoftDocs/ATADocs/blob/master/ATPDocs/install-atp-step4.md)
 
