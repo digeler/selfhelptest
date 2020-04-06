@@ -1,7 +1,7 @@
 <properties
 	pageTitle="How to connect the sensor to Ad"
-	description="email notifications"
-	infoBubbleText="email notifications"
+	description="Sensor connect"
+	infoBubbleText="sensor connect"
 	service="microsoft-aatp"
 	resource="aatp"
 	authors="digeler"
@@ -13,13 +13,13 @@
 	productPesIds=""
 	cloudEnvironments="Public, Blackforest, Fairfax, Mooncake"
 	articleId="Configuring connectivity to Active Directory"
-	ownershipId="Azure_Advanced_Threat_Protection"
+	ownershipId="AAtp"
 />
 
-## **Recommended Documents**
-# **Configure Email Notifications**
+
+## **Connect Sensor To AD**
 
 
 
-* [To Configure Email Notifications Please Follow This Article] (https://docs.microsoft.com/azure-advanced-threat-protection/notifications)
+* [To connect the sensor to  please follow this article ](https://github.com/MicrosoftDocs/ATADocs/blob/master/ATPDocs/install-atp-step4.md)
 
