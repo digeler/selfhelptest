@@ -1,0 +1,4 @@
+Sensor making excessive network connections 32729043
+question is not listed 32729035
+sensor fails to restart 32729045
+Sensor service unexpectedly stops or restarts 32729046

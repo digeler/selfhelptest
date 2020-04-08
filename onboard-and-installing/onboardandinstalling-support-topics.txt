@@ -1,0 +1,6 @@
+32729031 Installing the Sensor
+32729040 Questions about licensing for AATP
+32729037 Not able to access the Instance
+32729038 Not able to create the Instance
+32729044 Sensor service fails to start
+32729034 Soulution not found

@@ -1,0 +1,7 @@
+32729025  aatp-configuringthePortal-configuringconnectivitytoactivedirectory
+32729026          Configure email notifications
+32729027    aatp-configuringtheportal-configuringeventcollectionorsiem
+32729028        aatp-configuringtheportal-configuringexclusions
+  32729029     aatp-configuringtheportal-configuringreports
+
+  32729032  aatp-configuringtheportal-soulutionnotfound
